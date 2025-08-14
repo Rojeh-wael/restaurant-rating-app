@@ -175,10 +175,12 @@ Open a Pull Request
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 👨‍💻 Author
-Your Name
+Rojeh Wael
 
 GitHub: Rojeh-wael
+
 LinkedIn: www.linkedin.com/in/rojeh-wael-45896924a
+
 Email: rojehwael@yahoo.com
 
 🙏 Acknowledgments
@@ -192,4 +194,5 @@ Restaurant industry for inspiring this analysis
 📞 Support
 If you found this project helpful, please give it a ⭐ on GitHub!
 For questions or support, please open an issue in the GitHub repository.
+
 Built with Python and Streamlit
