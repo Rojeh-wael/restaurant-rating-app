@@ -55,7 +55,7 @@ bashpip install -r requirements.txt
 Launch the application:
 bashstreamlit run app.py
 
-Open your browser to http://localhost:8501
+Open your browser to https://restaurant-rating-app-rojeh-wael.streamlit.app
 
 Live Demo
 🌐 Try the Live App Here!
@@ -196,3 +196,4 @@ If you found this project helpful, please give it a ⭐ on GitHub!
 For questions or support, please open an issue in the GitHub repository.
 
 Built with Python and Streamlit
+
