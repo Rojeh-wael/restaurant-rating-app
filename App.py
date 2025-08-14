@@ -394,7 +394,7 @@ elif page == "🔮 Prediction Tool":
                                   sorted(df["cuisines"].dropna().unique()),
                                   help="Type of cuisine served")
             
-            cost2plates = st.number_input("Cost for 2 Plates (₹)", 
+            cost2plates = st.number_input("Cost for 2 Plates ($)", 
                                         min_value=50, 
                                         max_value=10000, 
                                         value=500,
@@ -508,4 +508,5 @@ elif page == "🔮 Prediction Tool":
 
 # ======== FOOTER ========
 st.markdown("---")
+
 st.markdown("Built By Rojeh_Wael using Streamlit | Restaurant Analytics Dashboard")
